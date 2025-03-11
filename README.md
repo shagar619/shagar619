@@ -29,15 +29,11 @@ My Tech Stacks
 
 <br/>
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
+
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+
 
 ###
 
@@ -52,14 +48,10 @@ My Tech Stacks
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 ###
 
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -68,7 +60,8 @@ My Tech Stacks
 
 <br/>
 
-## Connect with me  
+## 
+<h1 align="center">Connect with me</h1>
 <div align="center">
 
 <a href="https://www.linkedin.com/in/shagar619/" target="_blank">
@@ -85,10 +78,6 @@ My Tech Stacks
 
 <a href="https://x.com/619_shagar" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://dev.to" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
 
 
