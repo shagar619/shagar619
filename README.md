@@ -13,16 +13,9 @@
 ---
 ## 🧐 About Me
 
- Motivated and detail-oriented Full Stack Developer with hands-on experience in building responsive and scalable web applications using React.js, Node.js, and related technologies. Proficient in both front-end and back-end development, leveraging modern JavaScript frameworks and libraries to deliver seamless user experiences. Skilled in crafting clean, efficient, and maintainable code with a strong foundation in RESTful APIs, database management (SQL/NoSQL), and version control systems (Git).
+ Motivated and detail-oriented Front-end Developer with hands-on experience in building responsive and scalable web applications using React.js, Node.js, and related technologies. Proficient in both front-end , leveraging modern JavaScript frameworks and libraries to deliver seamless user experiences. Skilled in crafting clean, efficient, and maintainable code with a strong foundation in RESTful APIs, database management (SQL/NoSQL), and version control systems (Git).
 
 <!-- Profile Views -->
-
-
-
-<p align="center">
-  <a href="https://github.com/shagar619">Github</a> •
-  <a href="https://x.com/619_shagar">Twitter</a>
-</p>
 
 
 <br/>
