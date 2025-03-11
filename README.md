@@ -38,9 +38,7 @@ My Tech Stacks
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/shagar619" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+ 
 <a href="https://x.com/619_shagar" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -56,4 +54,23 @@ My Tech Stacks
 <a href="https://www.instagram.com/shagar619/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+
 </div>  
+
+
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+ 
+<a href="https://twitter.com/muradian1204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muradian1204" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mozaddedalfeshani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mozaddedalfeshani" height="30" width="40" /></a>
+<a href="https://fb.com/mozaddedalfeshani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mozaddedalfeshani" height="30" width="40" /></a>
+<a href="https://instagram.com/mozaddedalfeshani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mozaddedalfeshani" height="30" width="40" /></a>
+<a href="https://dribbble.com/mozaddedalfeshani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mozaddedalfeshani" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/murad15_6047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mozaddedalfeshani" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mozaddedalfeshani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mozaddedalfeshani" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mozaddedalfeshani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mozaddedalfeshani" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/shagar619/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="mozaddedalfeshani" height="30" width="40" /></a>
+ 
+</p>
