@@ -91,15 +91,29 @@ My Tech Stacks
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 
-
 <a href="https://www.facebook.com/619shagar" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/shagar619/" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-</a>  
+</a>
+</div>
 
-</div>  
+
+>
+<!-- <div align="center"> -->
+<!--   <p>
+    <a href="https://www.linkedin.com/in/anamul-haque-772264299/" target="_blank">
+      <img src="images/linkedin.svg" alt="LinkedIn" height="40" style="margin: 10px;">
+    </a>&nbsp;&nbsp;
+    <a href="https://www.facebook.com/Anamul114" target="_blank">
+      <img src="images/facebook.svg" alt="LinkedIn" height="40" style="margin: 10px;">
+    </a>&nbsp;&nbsp;
+    <a href="https://api.whatsapp.com/send?phone=8801864668089" target="_blank">
+      <img src="images/whatsapp.svg" alt="LinkedIn" height="40" style="margin: 10px;">
+    </a>
+  </p> -->
+<!-- </div> -->
 
 
 
