@@ -5,7 +5,10 @@
 </div>
 
 <!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Shagar Ahmed</h3>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+M+SHAGAR!;&color=FF5733" />
+</h1>
 
 ---
 ## 🧐 About Me
