@@ -7,11 +7,22 @@
 <!-- Heading -->
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+SHAGAR!;&color=FF5733" />
+  <a href="https://shagar-port.netlify.app/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+SHAGAR+AHMED+;Web-Developrer+&center=true&size=30&color=f5881b">
+  </a>
 </h1>
 
 ---
 ## 🧐 About Me
+
+<div align="center">
+  <p>
+<!--     🌱 I’m working at Odvut Solution as a backend developer<br> -->
+    👯 I’m looking to collaborate on OpenSource Projects<br>
+    👨‍💻 All of my projects are available at <a href="https://shagr-port.netlify.app/">My Portfolio</a><br>
+    📫 How to reach me: <a href="mailto:shagar619@gmail.com">ashagar619@gmail.com</a>
+  </p>
+</div>
 
  Motivated and detail-oriented Front-end Developer with hands-on experience in building responsive and scalable web applications using React.js, Node.js, and related technologies. Proficient in both front-end , leveraging modern JavaScript frameworks and libraries to deliver seamless user experiences. Skilled in crafting clean, efficient, and maintainable code with a strong foundation in RESTful APIs, database management (SQL/NoSQL), and version control systems (Git).
 
