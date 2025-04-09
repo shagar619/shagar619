@@ -8,7 +8,7 @@
 
 <h1 align="center">
   <a href="https://shagar-port.netlify.app/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+SHAGAR+AHMED+;Web-Developrer+&center=true&size=30&color=f5881b">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+SHAGAR+AHMED+;MERN-Stack-Developrer+&center=true&size=30&color=f5881b">
   </a>
 </h1>
 
