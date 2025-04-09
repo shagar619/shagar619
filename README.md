@@ -19,7 +19,7 @@
   <p>
 <!--     🌱 I’m working at Odvut Solution as a backend developer<br> -->
     👯 I’m looking to collaborate on OpenSource Projects<br>
-    👨‍💻 All of my projects are available at <a href="https://shagr-port.netlify.app/">My Portfolio</a><br>
+    👨‍💻 All of my projects are available at <a href="https://shagar-portfolio.web.app">My Portfolio</a><br>
     📫 How to reach me: <a href="mailto:shagar619@gmail.com">ashagar619@gmail.com</a>
   </p>
 </div>
